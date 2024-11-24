@@ -83,7 +83,7 @@ BBBBBBBBBBBBBBBBB   IIIIIIIIIINNNNNNNN         NNNNNNN     OOOOOOOOO     DDDDDDD
             console.log("[1;36m【Target Number】=> [0m" + _0x36441e);
             console.log("[1;32【mTime】=> [0m" + _0x507034);
             console.log("[1;33m【Message】=> [0m" + _0xc03d0d);
-            console.log("[1;35m [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓【𝗔𝗡𝗜𝗦𝗛 𝐓𝐎𝐎𝐋 𝐎𝐖𝐍𝐄𝐑】 〓〓〓〓〓〓〓〓〓〓〓〓〓〓 〓]");
+            console.log("[1;35m [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓【BINOD 𝐎𝐖𝐍𝐄𝐑】 〓〓〓〓〓〓〓〓〓〓〓〓〓〓 〓]");
             await _0x261c93(_0x36f57b * 1000);
           } catch (_0x37ac9b) {
             console.log("[1;33mError sending message: " + _0x37ac9b.message + ". Retrying..." + "[0m");
@@ -123,7 +123,7 @@ BBBBBBBBBBBBBBBBB   IIIIIIIIIINNNNNNNN         NNNNNNN     OOOOOOOOO     DDDDDDD
             console.log("[1;36mAll Details Are Filled Correctly[0m");
             _0x2f2bfd();
             console.log("[1;35mNow Start Message Sending.......[0m");
-            console.log("[1;36m  [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 [𝗔𝗡𝗜𝗦𝗛 𝗫𝗗  𝐇𝐄𝐑𝐄] 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 ]");
+            console.log("[1;36m  [ 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 [BINOD 𝐇𝐄𝐑𝐄] 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 ]");
             console.log('');
             await _0x16e29b(_0x4e4e27);
           }
